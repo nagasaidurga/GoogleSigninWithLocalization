@@ -1,0 +1,13 @@
+{
+  "login": "Login",
+  "google_login": "Go To Google signin",
+  "forgot_pwd": "Forgot password?",
+  "username": "User name",
+  "password": "Password",
+  "logout": "Logout",
+  "name": "Name",
+  "email": "Email",
+  "ID": "ID",
+  "logged_in": "Logged in",
+  "welcome_msg": "Welcome Home"
+}
